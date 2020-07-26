@@ -42,7 +42,7 @@ h1 {
 button {
     width: 33%;
     height: 100%;
-    font-size: 16pt;
+    font-size: 2em;
     margin: 0;
     padding: 0;
     background-color: lightgray;
@@ -50,11 +50,11 @@ button {
 
 #clear {
     width: 99%;
-    font-size: 16pt;
+    font-size: 2em;
 }
 
 textarea {
-    width: 99%;
+    width: 98.5%;
     height: 100%;
-    font-size: 16pt;
+    font-size: 2em;
 }
