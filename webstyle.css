@@ -1,36 +1,60 @@
 html {
     background-color: lightblue;
+    height: 100vh;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
 }
 
 h1 {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 0;
+}
+
+.calculator {
+    padding: 0;
+    margin: 0;
+    height: 80%;
+    width: 100%;
 }
 
 .calculator div {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 14%;
+    width: 80%;
 }
 
 button {
-    width: 100px;
-    height: 100px;
+    width: 33%;
+    height: 100%;
     font-size: 16pt;
+    margin: 0;
+    padding: 0;
     background-color: lightgray;
 }
 
 #clear {
-    width: 300px;
-    height: 100px;
+    width: 99%;
     font-size: 16pt;
 }
 
 textarea {
-    width: 290px;
-    height: 100px;
+    width: 99%;
+    height: 100%;
     font-size: 16pt;
 }

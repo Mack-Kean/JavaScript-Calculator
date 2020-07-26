@@ -64,6 +64,8 @@ function equate(){
         numString = (calcInfo.num1).toString()
         setText();
     }
+    calcInfo.num2 = 0;
+    calcInfo.operation = null;
 }
 
 //number button click functions
