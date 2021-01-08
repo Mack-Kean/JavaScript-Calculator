@@ -1,4 +1,5 @@
 # JavaScript-Calculator
- My first JavaScript project
- The HTML elements scale based on viewport height and width.  The calculator is also mobile friendly
+ **Description:** This javascript calculator scales its size based on viewport height and width and as such can be used on a screen of any size. it is also mobile friendly. It performs the calculations of a rudimentary calculator.
+ 
+ ## [To test out the calculator](https://mack-calculator.netlify.app/)
 
